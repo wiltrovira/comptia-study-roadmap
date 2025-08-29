@@ -17,6 +17,8 @@ Este repositorio tiene como objetivo centralizar y estructurar todo el material 
 
 ## 🗂 Estructura del repositorio
 
+```text
+
 CompTIA-Study-Roadmap/
 ├─ README.md # Este archivo
 ├─ Network+/
@@ -30,6 +32,8 @@ CompTIA-Study-Roadmap/
 │ └─ Labs/
 └─ Resources/ # Libros, cursos, simuladores y herramientas recomendadas
 
+```
+
 ---
 
 ## 🛠 Cómo usar este repositorio
@@ -38,7 +42,7 @@ CompTIA-Study-Roadmap/
 2. Revisa las notas y labs disponibles.
 3. Descarga o clona el repositorio:
 
-git clone https://github.com/wiltrovira/comptia-study-roadmap.git
+git clone <https://github.com/wiltrovira/comptia-study-roadmap.git>
 
 ## 🚀 Roadmap de aprendizaje sugerido
 
